@@ -7,8 +7,8 @@ public enum MedicineSchedule {
   Four(4),
   Five(5),
   Uncontrolled(6);
-  private int mSchedule;
 
+  private int mSchedule;
   private MedicineSchedule(int schedule) {
     mSchedule = schedule;
   }
