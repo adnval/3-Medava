@@ -1,0 +1,7 @@
+1. During the assignment, one issue that I encountered was that I had certain double types typed as "Double" and others typed as just an uncapitalized "double". I'm not sure if it is just Java, but my IDE's formatter said it was fine however it did not yield me the correct output. However after switching the capitalization, it worked. What is the difference between the two as I saw in the example in the github, you also used both "double" and "Double".
+
+2. On the topic of control mechanisms, I was a bit confused about how abstract classes interact with the private, protected, and public methods. I would like a bit more clarity in terms of how inherited classes work with them and if they inherit the same permissions/access level as their base class.
+
+3. Near the end of the assignment, I was confused about the keywords extends and implements. Is extends referring to inheritance, or is it implements?
+
+4. As I've never used Java before, I don't exactly know what Maven is. I have a faint idea of what JDK is, but Maven is completely new territory to me. Perhaps I could get some clarity as I might work on Java projects in the future. It seems like a great starting point.
